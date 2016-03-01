@@ -1,5 +1,5 @@
 some content
 
-This should be in the new branch.
+Let's see what happens to this line in master.
 
 fetch me

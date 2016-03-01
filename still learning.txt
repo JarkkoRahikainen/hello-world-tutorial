@@ -3,3 +3,5 @@ some content
 fetch me
 
 If I understood correctly, this should not cause any conflicts. 
+
+After this line is committed, this branch will be one push (or commit?). 

@@ -1,5 +1,5 @@
 some content
 
-This should be in the new branch.
-
 fetch me
+
+If I understood correctly, this should not cause any conflicts. 
